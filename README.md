@@ -5,6 +5,5 @@
 ```sql
 create pluggable database plsql_class2024db admin user pdbadmin identified by pragmas
 
-![Conceptual Diagram](./img/253.jpg)
-![Conceptual Diagram](./img/254.jpg)
+
 ```
